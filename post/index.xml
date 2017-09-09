@@ -400,7 +400,7 @@ $(&#34;extFrame&#34;).css(&#39;height&#39;, $(window).height()+&#39;px&#39;);
 $(&#34;extFrame&#34;).css(&#39;width&#39;, $(window).width()+&#39;px&#39;);
 &lt;/script&gt;
 
-&lt;p&gt;To obtain a reprint, please contact me by e-mail.&lt;/p&gt;
+&lt;p&gt;To obtain a reprint or Appendix, please contact me by e-mail.&lt;/p&gt;
 </description>
     </item>
     
