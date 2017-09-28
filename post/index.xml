@@ -2,20 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Kristiaan H.J. Kerstens</title>
-    <link>KKerstens.github.io/post/</link>
+    <link>https://kkerstens.github.io/post/</link>
     <description>Recent content in Posts on Kristiaan H.J. Kerstens</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Kristiaan Kerstens</copyright>
-    <lastBuildDate>Sat, 09 Sep 2017 12:22:02 +0200</lastBuildDate>
-    <atom:link href="KKerstens.github.io/post/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Sep 2017 00:16:07 +0200</lastBuildDate>
+    <atom:link href="/post/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Degrees</title>
+      <link>https://kkerstens.github.io/post/degrees/</link>
+      <pubDate>Mon, 25 Sep 2017 00:16:07 +0200</pubDate>
+      
+      <guid>https://kkerstens.github.io/post/degrees/</guid>
+      <description>
+
+&lt;h2 id=&#34;degrees-obtained&#34;&gt;&lt;strong&gt;Degrees obtained:&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Licentie Wijsbegeerte (licentiate in Philosophy), Katholieke Universiteit Leuven (Academic year 1986-1987).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;PhD in Economics, Katholieke Universiteit Brussel (21 November 1994). Currently Katholieke Universiteit Brussel is part of Katholieke Universiteit Leuven.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;Habilitation à diriger des recherches&amp;rdquo; (HDR), Université Charles-de-Gaulle (Lille 3) (25 February 1999).&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Responsabilities</title>
-      <link>KKerstens.github.io/post/responsabilities/</link>
+      <link>https://kkerstens.github.io/post/responsabilities/</link>
       <pubDate>Sat, 09 Sep 2017 12:22:02 +0200</pubDate>
       
-      <guid>KKerstens.github.io/post/responsabilities/</guid>
+      <guid>https://kkerstens.github.io/post/responsabilities/</guid>
       <description>
 
 &lt;h2 id=&#34;responsabilities-past-present&#34;&gt;&lt;strong&gt;Responsabilities: Past &amp;amp; Present&lt;/strong&gt;&lt;/h2&gt;
@@ -40,10 +60,10 @@
     
     <item>
       <title>Citations</title>
-      <link>KKerstens.github.io/post/citations/</link>
+      <link>https://kkerstens.github.io/post/citations/</link>
       <pubDate>Fri, 01 Sep 2017 17:56:45 +0200</pubDate>
       
-      <guid>KKerstens.github.io/post/citations/</guid>
+      <guid>https://kkerstens.github.io/post/citations/</guid>
       <description>&lt;p&gt;Statistics obtained on 11 July 2017 based on &lt;a href=&#34;https://harzing.com/resources/publish-or-perish&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Publish or Perish&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;
 
 &lt;ul&gt;
@@ -76,15 +96,15 @@
     
     <item>
       <title>Working Papers</title>
-      <link>KKerstens.github.io/post/workingpapers/</link>
+      <link>https://kkerstens.github.io/post/workingpapers/</link>
       <pubDate>Fri, 01 Sep 2017 17:54:30 +0200</pubDate>
       
-      <guid>KKerstens.github.io/post/workingpapers/</guid>
+      <guid>https://kkerstens.github.io/post/workingpapers/</guid>
       <description>
 
 &lt;h2 id=&#34;working-papers&#34;&gt;Working papers:&lt;/h2&gt;
 
-&lt;iframe id=&#34;extFrame&#34; src=&#34;KKerstens.github.io/unpublishedwpbib.html&#34; style=&#34;width: 100%&#34;&gt;&lt;/iframe&gt;
+&lt;iframe id=&#34;extFrame&#34; src=&#34;https://kkerstens.github.io/unpublishedwpbib.html&#34; style=&#34;width: 100%&#34;&gt;&lt;/iframe&gt;
 
 &lt;script type=&#34;text/javascript&#34; language=&#34;javascript&#34;&gt; 
 $(&#39;.myIframe&#39;).css(&#39;height&#39;, $(window).height()+&#39;px&#39;);
@@ -94,10 +114,10 @@ $(&#39;.myIframe&#39;).css(&#39;height&#39;, $(window).height()+&#39;px&#39;);
     
     <item>
       <title>Recruitment and Promotion</title>
-      <link>KKerstens.github.io/post/recruitment/</link>
+      <link>https://kkerstens.github.io/post/recruitment/</link>
       <pubDate>Fri, 01 Sep 2017 17:45:14 +0200</pubDate>
       
-      <guid>KKerstens.github.io/post/recruitment/</guid>
+      <guid>https://kkerstens.github.io/post/recruitment/</guid>
       <description>
 
 &lt;h2 id=&#34;recruitment-committees&#34;&gt;&lt;strong&gt;Recruitment committees:&lt;/strong&gt;&lt;/h2&gt;
@@ -138,10 +158,10 @@ $(&#39;.myIframe&#39;).css(&#39;height&#39;, $(window).height()+&#39;px&#39;);
     
     <item>
       <title>Grant Proposals</title>
-      <link>KKerstens.github.io/post/grants/</link>
+      <link>https://kkerstens.github.io/post/grants/</link>
       <pubDate>Fri, 01 Sep 2017 17:45:01 +0200</pubDate>
       
-      <guid>KKerstens.github.io/post/grants/</guid>
+      <guid>https://kkerstens.github.io/post/grants/</guid>
       <description>&lt;p&gt;Evaluation of research proposals and research units for the following institutions:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -183,19 +203,19 @@ $(&#39;.myIframe&#39;).css(&#39;height&#39;, $(window).height()+&#39;px&#39;);
     </item>
     
     <item>
-      <title>Organisation of Seminars and Conference</title>
-      <link>KKerstens.github.io/post/conferences/</link>
+      <title>Organisation of Conferences and Seminars</title>
+      <link>https://kkerstens.github.io/post/conferences/</link>
       <pubDate>Fri, 01 Sep 2017 17:44:46 +0200</pubDate>
       
-      <guid>KKerstens.github.io/post/conferences/</guid>
+      <guid>https://kkerstens.github.io/post/conferences/</guid>
       <description>
 
 &lt;h2 id=&#34;organisation-of-conferences&#34;&gt;&lt;strong&gt;Organisation of conferences:&lt;/strong&gt;&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Member of the scientific committee of the “European Workshop on Efficiency and Productivity Measurement” (2000-2015).&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Member of the scientific committee of the “European Workshop on Efficiency and Productivity Measurement” &lt;a href=&#34;http://ewepa.org/conferences/london2017/&#34; target=&#34;_blank&#34;&gt;(&amp;ldquo;EWEPA&amp;rdquo;)&lt;/a&gt; (2000-2015).&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Co-responsible (with P. Agrell &amp;amp; P. Vanden Eeckaut) for the organisation of the 9th and 10th “European Workshop on Efficiency and Productivity Measurement” &lt;a href=&#34;http://ewepa.org/conferences/london2017/&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;EWEPA&amp;rdquo;&lt;/a&gt; in 2005 (Brussels) and in 2007 (Lille).&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Co-responsible (with P. Agrell &amp;amp; P. Vanden Eeckaut) for the organisation of the 9th and 10th “European Workshop on Efficiency and Productivity Measurement” in 2005 (Brussels) and in 2007 (Lille).&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Co-responsible (with O. Brandouy, A. Lozano-Vivas &amp;amp; A. Zago in the &amp;ldquo;Steering Committee&amp;rdquo;) for the organisation of the workshop &amp;ldquo;Fostering a European Network on Financial Efficiency: Banking, Portfolio Theory and Computational Issues&amp;rdquo; (25 February 2008 at IFRESI, Lille). Also member of the &amp;ldquo;Local Organizing Committee&amp;rdquo;.&lt;/p&gt;&lt;/li&gt;
 
@@ -244,11 +264,13 @@ $(&#39;.myIframe&#39;).css(&#39;height&#39;, $(window).height()+&#39;px&#39;);
     
     <item>
       <title>Editorial Positions</title>
-      <link>KKerstens.github.io/post/editorial/</link>
+      <link>https://kkerstens.github.io/post/editorial/</link>
       <pubDate>Fri, 01 Sep 2017 17:44:30 +0200</pubDate>
       
-      <guid>KKerstens.github.io/post/editorial/</guid>
-      <description>&lt;p&gt;Editorial positions (past &amp;amp; present):&lt;/p&gt;
+      <guid>https://kkerstens.github.io/post/editorial/</guid>
+      <description>
+
+&lt;h2 id=&#34;editorial-positions-past-present&#34;&gt;&lt;strong&gt;Editorial positions: Past &amp;amp; Present&lt;/strong&gt;&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Associate Editor of the international OR journal &lt;em&gt;&amp;ldquo;TOP&amp;rdquo;&lt;/em&gt; (2001-2006).&lt;/p&gt;&lt;/li&gt;
@@ -268,10 +290,10 @@ $(&#39;.myIframe&#39;).css(&#39;height&#39;, $(window).height()+&#39;px&#39;);
     
     <item>
       <title>Refereeing: Journals &amp; Publishers</title>
-      <link>KKerstens.github.io/post/refereeing/</link>
+      <link>https://kkerstens.github.io/post/refereeing/</link>
       <pubDate>Fri, 01 Sep 2017 17:41:48 +0200</pubDate>
       
-      <guid>KKerstens.github.io/post/refereeing/</guid>
+      <guid>https://kkerstens.github.io/post/refereeing/</guid>
       <description>
 
 &lt;h2 id=&#34;reviewing-of-books-or-book-chapters-for-the-following-publishers&#34;&gt;&lt;strong&gt;Reviewing of books or book chapters for the following publishers:&lt;/strong&gt;&lt;/h2&gt;
@@ -292,15 +314,15 @@ $(&#39;.myIframe&#39;).css(&#39;height&#39;, $(window).height()+&#39;px&#39;);
     
     <item>
       <title>PhD Committees</title>
-      <link>KKerstens.github.io/post/phdcommittees/</link>
+      <link>https://kkerstens.github.io/post/phdcommittees/</link>
       <pubDate>Mon, 28 Aug 2017 10:00:12 +0200</pubDate>
       
-      <guid>KKerstens.github.io/post/phdcommittees/</guid>
+      <guid>https://kkerstens.github.io/post/phdcommittees/</guid>
       <description>
 
-&lt;h2 id=&#34;phd-committees&#34;&gt;PhD Committees&lt;/h2&gt;
+&lt;h2 id=&#34;phd-committees&#34;&gt;PhD Committees:&lt;/h2&gt;
 
-&lt;iframe id=&#34;extFrame&#34; src=&#34;KKerstens.github.io/PhDCommittee.html&#34; style=&#34;width: 100%&#34;&gt;&lt;/iframe&gt;
+&lt;iframe id=&#34;extFrame&#34; src=&#34;https://kkerstens.github.io/PhDCommittee.html&#34; style=&#34;width: 100%&#34;&gt;&lt;/iframe&gt;
 
 &lt;script type=&#34;text/javascript&#34; language=&#34;javascript&#34;&gt; 
 $(&#39;.myIframe&#39;).css(&#39;height&#39;, $(window).height()+&#39;px&#39;);
@@ -311,15 +333,15 @@ $(&#39;.myIframe&#39;).css(&#39;width&#39;, $(window).width()+&#39;px&#39;);
     
     <item>
       <title>PhD Supervision</title>
-      <link>KKerstens.github.io/post/phdsupervision/</link>
+      <link>https://kkerstens.github.io/post/phdsupervision/</link>
       <pubDate>Mon, 28 Aug 2017 10:00:03 +0200</pubDate>
       
-      <guid>KKerstens.github.io/post/phdsupervision/</guid>
+      <guid>https://kkerstens.github.io/post/phdsupervision/</guid>
       <description>
 
-&lt;h2 id=&#34;phd-supervision&#34;&gt;PhD Supervision&lt;/h2&gt;
+&lt;h2 id=&#34;phd-supervision&#34;&gt;PhD Supervision:&lt;/h2&gt;
 
-&lt;iframe id=&#34;extFrame&#34; src=&#34;KKerstens.github.io/PhDSupervised.html&#34; style=&#34;width: 100%&#34;&gt;&lt;/iframe&gt;
+&lt;iframe id=&#34;extFrame&#34; src=&#34;https://kkerstens.github.io/PhDSupervised.html&#34; style=&#34;width: 100%&#34;&gt;&lt;/iframe&gt;
 
 &lt;script type=&#34;text/javascript&#34; language=&#34;javascript&#34;&gt; 
 $(&#39;.myIframe&#39;).css(&#39;height&#39;, $(window).height()+&#39;px&#39;);
@@ -332,10 +354,10 @@ $(&#39;.myIframe&#39;).css(&#39;width&#39;, $(window).width()+&#39;px&#39;);
     
     <item>
       <title>Courses</title>
-      <link>KKerstens.github.io/post/courses/</link>
+      <link>https://kkerstens.github.io/post/courses/</link>
       <pubDate>Mon, 28 Aug 2017 09:59:39 +0200</pubDate>
       
-      <guid>KKerstens.github.io/post/courses/</guid>
+      <guid>https://kkerstens.github.io/post/courses/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;&amp;ldquo;The roots of education are bitter, but the fruit is sweet&amp;rdquo;&lt;/em&gt;&lt;/strong&gt;  - Aristotle -&lt;/p&gt;
@@ -364,15 +386,15 @@ $(&#39;.myIframe&#39;).css(&#39;width&#39;, $(window).width()+&#39;px&#39;);
     
     <item>
       <title>Articles</title>
-      <link>KKerstens.github.io/post/articles/</link>
+      <link>https://kkerstens.github.io/post/articles/</link>
       <pubDate>Mon, 28 Aug 2017 09:40:49 +0200</pubDate>
       
-      <guid>KKerstens.github.io/post/articles/</guid>
+      <guid>https://kkerstens.github.io/post/articles/</guid>
       <description>
 
-&lt;h2 id=&#34;peer-reviewed-articles&#34;&gt;Peer reviewed articles&lt;/h2&gt;
+&lt;h2 id=&#34;peer-reviewed-articles&#34;&gt;Peer reviewed articles:&lt;/h2&gt;
 
-&lt;iframe id=&#34;extFrame&#34; src=&#34;KKerstens.github.io/articles.html&#34; style=&#34;width: 100%&#34;&gt;&lt;/iframe&gt;
+&lt;iframe id=&#34;extFrame&#34; src=&#34;https://kkerstens.github.io/articles.html&#34; style=&#34;width: 100%&#34;&gt;&lt;/iframe&gt;
 
 &lt;script type=&#34;text/javascript&#34; language=&#34;javascript&#34;&gt; 
 $(&#39;.myIframe&#39;).css(&#39;height&#39;, $(window).height()+&#39;px&#39;);
@@ -385,15 +407,15 @@ $(&#39;.myIframe&#39;).css(&#39;width&#39;, $(window).width()+&#39;px&#39;);
     
     <item>
       <title>Chapters</title>
-      <link>KKerstens.github.io/post/chapters/</link>
+      <link>https://kkerstens.github.io/post/chapters/</link>
       <pubDate>Mon, 28 Aug 2017 09:36:50 +0200</pubDate>
       
-      <guid>KKerstens.github.io/post/chapters/</guid>
+      <guid>https://kkerstens.github.io/post/chapters/</guid>
       <description>
 
-&lt;h2 id=&#34;book-contributions&#34;&gt;Book contributions&lt;/h2&gt;
+&lt;h2 id=&#34;book-contributions&#34;&gt;Book contributions:&lt;/h2&gt;
 
-&lt;iframe id=&#34;extFrame&#34; src=&#34;KKerstens.github.io/bookchaptersbib.html&#34; style=&#34;width: 100%&#34;&gt;&lt;/iframe&gt;
+&lt;iframe id=&#34;extFrame&#34; src=&#34;https://kkerstens.github.io/bookchaptersbib.html&#34; style=&#34;width: 100%&#34;&gt;&lt;/iframe&gt;
 
 &lt;script type=&#34;text/javascript&#34; language=&#34;javascript&#34;&gt; 
 $(&#34;extFrame&#34;).css(&#39;height&#39;, $(window).height()+&#39;px&#39;);

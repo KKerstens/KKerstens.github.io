@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Kristiaan H.J. Kerstens</title>
-    <link>KKerstens.github.io/home/</link>
+    <link>https://kkerstens.github.io/home/</link>
     <description>Recent content in Homes on Kristiaan H.J. Kerstens</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Kristiaan Kerstens</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="KKerstens.github.io/home/" rel="self" type="application/rss+xml" />
+    <atom:link href="/home/" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
